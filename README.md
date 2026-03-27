@@ -1,4 +1,4 @@
-# Ciaens Qobuz-player
+# Qobuz-player /\Homebrew/\
 
 ## How do I install these formulae?
 
