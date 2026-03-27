@@ -1,16 +1,12 @@
-# Qobuz-player /\Homebrew/\
+# Qobuz-player (Homebrew)
 
 ## How do I install these formulae?
 
 `brew install ciaens/qobuz-player/<formula>`
 
-Or `brew tap ciaens/qobuz-player` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
 ```ruby
-tap "ciaens/qobuz-player"
-brew "<formula>"
+brew tap ciaens/qobuz-player
+brew install qobuz-player
 ```
 
 ## Documentation
