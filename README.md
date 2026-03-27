@@ -4,7 +4,7 @@
 
 `brew install ciaens/qobuz-player/<formula>`
 
-```ruby
+```bash
 brew tap ciaens/qobuz-player
 brew install qobuz-player
 ```
