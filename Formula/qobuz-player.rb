@@ -1,8 +1,8 @@
 class QobuzPlayer < Formula
   desc "Music player for Qobuz"
   homepage "https://github.com/SofusA/qobuz-player"
-  url "https://github.com/SofusA/qobuz-player/archive/refs/tags/v0.9.0.tar.gz"
-  sha256 "b2d80809a0b5bbe47e4829935585e739310539667cf968eb892fc5d96b166311"
+  url "https://github.com/SofusA/qobuz-player/archive/refs/tags/v0.10.0.tar.gz"
+  sha256 "a005857c11af59d746d3c88e17d5906e0bd38dc464fd0afe04708bd462cd8372"
   license "GPL-3.0-only"
 
   depends_on "pkg-config" => :build
